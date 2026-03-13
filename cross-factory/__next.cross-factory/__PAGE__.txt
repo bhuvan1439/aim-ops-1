@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[94053,["/aim-ops-1/_next/static/chunks/5fea16db161f97fe.js","/aim-ops-1/_next/static/chunks/ea68f9e9f468eec2.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"mTarhh7MC5NErFheKv9Ls","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex-1 flex flex-col items-center justify-center p-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-slate-400 mb-2","children":"Under Construction"}],["$","p",null,{"className":"text-slate-500","children":"This specialized industrial module is currently being implemented."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
