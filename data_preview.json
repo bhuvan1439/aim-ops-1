@@ -1,0 +1,66 @@
+{
+  "process": [
+    {
+      "Batch_ID": "T001",
+      "Time_Minutes": 0,
+      "Phase": "Preparation",
+      "Temperature_C": 22.84487552897373,
+      "Pressure_Bar": 1.023866023450387,
+      "Humidity_Percent": 39.0899559239243,
+      "Motor_Speed_RPM": 0.0,
+      "Compression_Force_kN": 0.0,
+      "Flow_Rate_LPM": 0.0,
+      "Power_Consumption_kW": 2.022777570150748,
+      "Vibration_mm_s": 0.1520485568965053
+    },
+    {
+      "Batch_ID": "T001",
+      "Time_Minutes": 1,
+      "Phase": "Preparation",
+      "Temperature_C": 24.8929488774873,
+      "Pressure_Bar": 1.170301389572878,
+      "Humidity_Percent": 46.60804243351626,
+      "Motor_Speed_RPM": 0.0,
+      "Compression_Force_kN": 0.0,
+      "Flow_Rate_LPM": 0.0,
+      "Power_Consumption_kW": 1.16499661975138,
+      "Vibration_mm_s": 0.07839544655781534
+    }
+  ],
+  "production": [
+    {
+      "Batch_ID": "T001",
+      "Granulation_Time": 15,
+      "Binder_Amount": 8.5,
+      "Drying_Temp": 60,
+      "Drying_Time": 25,
+      "Compression_Force": 12.5,
+      "Machine_Speed": 150,
+      "Lubricant_Conc": 1.0,
+      "Moisture_Content": 2.1,
+      "Tablet_Weight": 199.8,
+      "Hardness": 95,
+      "Friability": 0.65,
+      "Disintegration_Time": 8.2,
+      "Dissolution_Rate": 89.3,
+      "Content_Uniformity": 98.7
+    },
+    {
+      "Batch_ID": "T002",
+      "Granulation_Time": 12,
+      "Binder_Amount": 7.0,
+      "Drying_Temp": 65,
+      "Drying_Time": 20,
+      "Compression_Force": 15.0,
+      "Machine_Speed": 120,
+      "Lubricant_Conc": 0.8,
+      "Moisture_Content": 2.8,
+      "Tablet_Weight": 201.3,
+      "Hardness": 110,
+      "Friability": 0.45,
+      "Disintegration_Time": 12.1,
+      "Dissolution_Rate": 87.9,
+      "Content_Uniformity": 101.2
+    }
+  ]
+}
